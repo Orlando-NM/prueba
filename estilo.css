@@ -1,0 +1,31 @@
+.box1{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    border: 1px solid black;
+}
+.cabecera{
+    display: flex;
+    flex-direction: column;
+}
+.titulo{
+    text-align: center;
+    height: 80px;
+}
+.menu_superior{
+    background-color: goldenrod;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#cuerpo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+.menu_lateral{
+    width: 25%;
+}
+#lo{
+    display: flex;
+}
